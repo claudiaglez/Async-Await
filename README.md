@@ -33,7 +33,7 @@ cd Async-Await
 Do you have any suggestion? Please, feel free to contact me or open an issue or pull request :envelope_with_arrow:
 
 
-# :tada: Credits
+## :tada: Credits
 My example is based in [this article](https://www.freecodecamp.org/news/async-await-javascript-tutorial-explained-by-making-pizza/)
 
 
